@@ -1,0 +1,37 @@
+body{
+  background-color: #cccccc
+}
+#MAIN p{
+  height: 1000px;
+}
+/* Навигационная панель */
+#header-nav{
+  border-radius: 0px;
+  border-color: black;
+  padding: 10px;
+}
+#button{
+  top: 10px;
+}
+#nav-list{
+  text-align: center;
+}
+br{
+  color: black;
+}
+.navbar-header {
+  border: 2px;
+  border-color: #5c5c5c;
+}
+#nav-list #item-id{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: inherit;
+  color:grey;
+  font-size: 1.2em;
+}
+.navbar-brand h3{
+  margin-top:10px;
+}
+/* Конец навигационной модели */
+
